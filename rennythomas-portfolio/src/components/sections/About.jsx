@@ -89,10 +89,8 @@ export const About = () => {
                     Social media manager at OUTDOOR360 (2021 - 2022 ){"as a Freelancer"}
                   </h4>
                   <p>
-                Scaled a fishing brand’s Facebook and Instagram pages to 250K+ combined followers through
-                advanced content strategy and automation.
-                •Engineered Python-based automation scripts to download, process, and repost reels
-                efficiently.
+                  Managed social media accounts, developed content strategies, and created engaging posts and videos. Grew the brand’s audience to 250K+ followers, optimized content for engagement, 
+                  and implemented marketing strategies. Monitored interactions, analyzed performance metrics, and collaborated with influencers to enhance brand visibility.
                   </p>
                 </div>
               </div>
